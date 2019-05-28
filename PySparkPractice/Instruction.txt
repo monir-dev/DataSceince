@@ -1,0 +1,3 @@
+Execute python script:
+----------------------
+spark-submit file.py
